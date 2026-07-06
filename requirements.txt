@@ -4,6 +4,5 @@ scipy
 matplotlib
 reportlab
 pillow
-opencv-python
-open3d
-pyrealsense2
+opencv-python-headless
+open3d==0.19.0
