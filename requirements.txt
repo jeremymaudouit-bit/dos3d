@@ -1,0 +1,9 @@
+streamlit
+numpy
+scipy
+matplotlib
+reportlab
+pillow
+opencv-python
+open3d
+pyrealsense2
